@@ -1,0 +1,13 @@
+logs
+target
+.DS_Store
+Thumbs.db
+.sbtserver
+.sbtserver.lock
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+*.log
